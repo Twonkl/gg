@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap'); 
+ 
+body  
+{  
+    font-family: 'Rubik Bubbles', cursive;    
+    background-size: cover;  
+    margin: 0;  
+}  
+body{  
+    background-image:url("../sours/image/fon6.jpg") 
+}  
+h1  
+{  
+    margin: 150px 0px 0px 50px;  
+    height: 400px;  
+    background-image: url("../sours/image/Anton.jpg");  
+    background-repeat: no-repeat;  
+    background-size: contain;  
+    text-indent: -9999px;  
+}  
+h2  
+{  
+    background-color:rgba(54, 62, 59, 0.403);  
+    border-radius: 10px; 
+}  
+#text  
+{  
+position: absolute;  
+height:400px;  
+width:600px;  
+top:100px;  
+left:400px;  
+font-size: 227%;  
+font-family: 'PT Serif', serif; 
+}  
+#logo2
+{
+    position:absolute ;
+    font-family: 'Source Code Pro', monospace;
+    color:gray;
+    text-align:center;
+    font-size:  30px;
+    left:60%; 
+    top: 25px;
+   
+}
+#logo
+{
+    position:absolute ;
+    font-family: 'Source Code Pro', monospace;
+    color:gray;
+    text-align:center;
+    font-size:  30px;
+    left:45%; 
+    top: 25px;
+   
+}

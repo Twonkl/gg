@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+
+body
+{
+    background:url("../sours/fon.jpg") ;
+}
+
+
+.navigation
+{
+    display:flex ;
+    flex-flow: row nowrap;
+    justify-content:center ;
+    list-style:none;
+    margin:0;
+    background-color:gray ;
+}
+.navigation a 
+{
+    text-decoration: none;
+    display:block;
+    padding:1em;
+    color:antiquewhite;
+}
+.conteiner3
+{
+    display:flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: center;
+}
+#Foto1
+{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-image: url("../sours/image/Yarik.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 40px;
+    top: 164px;
+    border-radius: 10px;
+}
+#Foto2
+{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-image: url("../sours/image/Daniil.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 430px;
+    top: 250px;
+    border-radius: 10px;
+}
+#Foto3
+{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-image: url("../sours/image/Gosha.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    left:820px;
+    top: 164px;
+    border-radius: 10px;
+}
+#Foto4
+{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-image: url("../sours/image/Anton.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    left:1220px;
+    top: 250px;
+    border-radius: 10px;
+}

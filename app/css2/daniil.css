@@ -1,0 +1,56 @@
+body 
+{
+    background-image: url(../css/image/fon.jpg);
+}
+#Foto
+{
+    position: absolute;
+    height: 526px;
+    width: 433px;
+    background-image: url("../sours/image/Daniil.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 40px;
+    top: 164px;
+    border-radius: 10px;
+}
+.Navigation
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:center;
+    list-style: none;
+    margin:0;
+}   
+#OSebe
+{
+    position: absolute;
+    height: 400px;
+    width: 600px;
+    top: 250px;
+    left:700px;   
+    font-family: 'Rubik Glitch', cursive;
+    font-size: 300%;
+    color: rgb(243, 243, 243);
+}
+#logo2
+{
+    position:absolute ;
+    font-family: 'Source Code Pro', monospace;
+    color:grey;
+    text-align:center;
+    font-size:  30px;
+    left:60%; 
+    top: 25px;
+   
+}
+#logo
+{
+    position:absolute ;
+    font-family: 'Source Code Pro', monospace;
+    color:grey;
+    text-align:center;
+    font-size:  30px;
+    left:45%; 
+    top: 25px;
+}

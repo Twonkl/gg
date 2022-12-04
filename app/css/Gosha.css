@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap'); 
+ 
+body  
+{  
+    font-family: 'Rubik Bubbles', cursive;  
+    background: url("../sourse/Fon.jpg") no-repeat center center fixed;  
+    background-size: cover;  
+    margin: 0;  
+}  
+body{  
+    background-image:url("../sours/image/mr.jpg") 
+}  
+h1  
+{  
+    margin: 150px 0px 0px 50px;  
+    height: 400px;  
+    background-image: url("../sours/image/Gosha.jpg");  
+    background-repeat: no-repeat;  
+    background-size: contain;  
+    text-indent: -9999px;  
+}  
+h2  
+{  
+    background-color:rgba(54, 62, 59, 0.403);  
+    border-radius: 10px; 
+}  
+#text  
+{  
+position: absolute;  
+height:400px;  
+width:600px;  
+top:100px;  
+left:400px;  
+font-size: 227%;  
+font-family: 'PT Serif', serif; 
+}  
+.Navigation 
+{ 
+    margin: 150px 0px 0px 1400px;  
+    height: 100px;  
+    background-color:rgba(54, 62, 59, 0.284); 
+    border-radius: 100px; 
+} 
+.Navigation a 
+{ 
+    margin: 20px 0px 0px 0px;   
+}

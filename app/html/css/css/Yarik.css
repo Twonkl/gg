@@ -1,0 +1,97 @@
+body
+{
+    background-image: url("../sours/image/fon5.jpg");
+
+}
+#logo
+{
+    position:absolute ;
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(249, 212, 212);
+    text-align:center;
+    font-size:  30px;
+    left:45%; 
+    top: 25px;
+   
+}
+#yarik
+{
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    left: 0%;
+    top: 0%;
+}
+#gosha
+{
+    position: absolute;
+    height: 457px;
+    width: 382px;
+    background-image: url("../sours/image/Yarik.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 20px;
+    top: 100px;
+
+}
+#PRO
+{
+    position: absolute;
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(255, 255, 255);
+    height: 600px;
+    width: 650px;
+    top: 200px;
+    left: 500px;
+}
+#pop
+{
+    position: absolute;
+    height: 75px;
+    width: 75px;
+    top: 12.5px;
+    left: 12.5px;
+    border-radius: 50%;
+}
+#opo
+{
+    position: absolute;
+    height: 110px;
+    width: 110px;
+    background-color: rgb(234, 128, 252);
+    background-image: url("../sours/image/planeta.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 27px;
+    right: 27px;
+    border-radius: 50%;
+}
+#robo
+{
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    right: 0PX;
+    bottom: 0px;
+    border-radius: 50%; 
+}
+#pon
+{
+    position: absolute;
+    height: 463px;
+    width: 388px;
+    background-color: rgb(33, 3, 32);
+    left: 17px;
+    top: 97px;  
+}
+#logo2
+{
+    position:absolute ;
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(249, 212, 212);
+    text-align:center;
+    font-size:  30px;
+    left:60%; 
+    top: 25px;
+   
+}
