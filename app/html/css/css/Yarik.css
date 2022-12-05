@@ -53,19 +53,6 @@ body
     left: 12.5px;
     border-radius: 50%;
 }
-#opo
-{
-    position: absolute;
-    height: 110px;
-    width: 110px;
-    background-color: rgb(234, 128, 252);
-    background-image: url("../sours/image/planeta.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    top: 27px;
-    right: 27px;
-    border-radius: 50%;
-}
 #robo
 {
     position: absolute;
